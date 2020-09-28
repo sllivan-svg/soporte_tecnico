@@ -1822,7 +1822,7 @@ a:hover.back-to-top {
 	}
 
 	.navbar-custom .fa-stack:hover .fa-stack-2x {
-		color: #fff;
+		color: rgb(16, 20, 238);
 	}
 
 	.navbar-custom .fa-stack:hover .fa-stack-1x {
