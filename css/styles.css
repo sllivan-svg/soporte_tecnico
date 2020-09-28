@@ -132,16 +132,16 @@ a.white {
 }
 
 .turquoise {
-	color: #00bfd8;
+	color: #499dce;
 }
 
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #00bfd8;
+	border: 0.125rem solid #020003;
 	border-radius: 2rem;
 	background-color: #00bfd8;
-	color: #fff;
+	color: rgb(10, 1, 15);
 	font: 700 0.75rem/0 "Raleway", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s;
