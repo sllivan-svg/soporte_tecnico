@@ -1834,11 +1834,11 @@ a:hover.back-to-top {
 	}
 	
 	.navbar-custom.top-nav-collapse .fa-stack-1x {
-		color: #fff;
+		color: rgb(3, 0, 0);
 	}
 
 	.navbar-custom.top-nav-collapse .fa-stack:hover .fa-stack-2x {
-		color: #00a7bd;
+		color: #2c0cbd;
 	}
 	
 	.navbar-custom.top-nav-collapse .fa-stack:hover .fa-stack-1x {
@@ -1955,7 +1955,7 @@ a:hover.back-to-top {
 	}
 
 	.basic-3 p {
-		width: 65%;
+		width: 70%;
 	}
 	/* end of video */
 	
@@ -1970,11 +1970,11 @@ a:hover.back-to-top {
 	}
 
 	.slider-2 .slider-container {
-		width: 88%;
+		width: 90%;
 	}
 
 	.slider-2 .swiper-container {
-		width: 82%;
+		width: 90%;
 	}
 	/* end of testimonials */
 
@@ -2167,7 +2167,7 @@ a:hover.back-to-top {
 
 	/* Extra Pages */
 	.ex-header h1 {
-		width: 60%;
+		width: 70%;
 		margin-right: auto;
 		margin-left: auto;
 	}
